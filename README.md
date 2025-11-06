@@ -79,8 +79,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Eternal-prithivi/Cryptography-and-network-security.git
+cd Cryptocgraghy-and-network-security
 Set up the Backend (in the backend folder):
 
 Bash
